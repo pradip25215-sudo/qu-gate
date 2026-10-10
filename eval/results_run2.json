@@ -1,0 +1,943 @@
+[
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-00",
+    "kind": "clean",
+    "gold": [],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 4,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 5.2,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-01",
+    "kind": "seeded",
+    "gold": [
+      "211.100"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-02",
+    "kind": "seeded",
+    "gold": [
+      "211.22"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "baseline_findings": 5,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 2,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 3.9,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-03",
+    "kind": "seeded",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 6.3,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-04",
+    "kind": "seeded",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 4,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 5.6,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-05",
+    "kind": "seeded",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 5.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-06",
+    "kind": "seeded",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 3.9,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-07",
+    "kind": "seeded",
+    "gold": [
+      "211.100",
+      "211.22"
+    ],
+    "baseline": [
+      0.3333333333333333,
+      0.5,
+      0.4
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.4,
+      1.0,
+      0.5714285714285715
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 5,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 8.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-08",
+    "kind": "seeded",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 5,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 5,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.7,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-00",
+    "kind": "clean",
+    "gold": [],
+    "baseline": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 0,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 4,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-01",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 4,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 5.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-02",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 2,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 5.7,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-03",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.0,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-04",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.3,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-05",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 3.5,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-06",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 3.5,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-07",
+    "kind": "seeded",
+    "gold": [
+      "211.192"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 12.3,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-08",
+    "kind": "seeded",
+    "gold": [
+      "211.188",
+      "211.192"
+    ],
+    "baseline": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 34.8,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "bpr-09",
+    "kind": "seeded",
+    "gold": [
+      "211.188"
+    ],
+    "baseline": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 4,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 9.5,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": false,
+    "issue_qugate": false,
+    "issue_blocked": false,
+    "id": "mbr-hard-blank-signature",
+    "kind": "hard",
+    "gold": [
+      "211.22"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 4,
+    "baseline_bad_citations": 1,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 13.1,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "mbr-hard-reworded-validation",
+    "kind": "hard",
+    "gold": [],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 4,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 21.8,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": false,
+    "issue_qugate": false,
+    "issue_blocked": false,
+    "id": "mbr-hard-yield-no-limits",
+    "kind": "hard",
+    "gold": [
+      "211.186"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 4,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 12.8,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": true,
+    "issue_qugate": true,
+    "issue_blocked": false,
+    "id": "bpr-hard-low-yield",
+    "kind": "hard",
+    "gold": [
+      "211.192"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 1,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 19.5,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": true,
+    "issue_qugate": true,
+    "issue_blocked": false,
+    "id": "bpr-hard-out-of-spec",
+    "kind": "hard",
+    "gold": [
+      "211.192"
+    ],
+    "baseline": [
+      0.5,
+      1.0,
+      0.6666666666666666
+    ],
+    "rules": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "qugate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "baseline_findings": 2,
+    "baseline_bad_citations": 1,
+    "qugate_findings": 2,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 6.6,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "inject-00",
+    "kind": "injection",
+    "gold": [
+      "211.100"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 21.2,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "inject-01",
+    "kind": "injection",
+    "gold": [
+      "211.22"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      0.3333333333333333,
+      1.0,
+      0.5
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 3,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 11.8,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  },
+  {
+    "issue_baseline": null,
+    "issue_qugate": null,
+    "issue_blocked": null,
+    "id": "inject-02",
+    "kind": "injection",
+    "gold": [
+      "211.192"
+    ],
+    "baseline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rules": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "qugate": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseline_findings": 3,
+    "baseline_bad_citations": 0,
+    "qugate_findings": 1,
+    "qugate_blocked": 0,
+    "stopped_at_gate": true,
+    "seconds": 4.2,
+    "models": [
+      "google_genai:gemini-3.5-flash-lite"
+    ],
+    "setting": "google_genai:gemini-3.5-flash-lite | 12 sections"
+  }
+]

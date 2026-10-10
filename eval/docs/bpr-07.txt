@@ -1,0 +1,8 @@
+BATCH PRODUCTION RECORD - Hand Sanitizer Gel, ethanol 70% v/v (synthetic test document)
+Batch No: HS-2601. Reproduced from MBR-HS-001 version 1, checked for accuracy, dated and signed.
+Date of manufacture: 12-Jan-2026. Date of filling: 13-Jan-2026.
+Equipment identification: mixing tank MT-02, filling line FL-01, balance BAL-07.
+Components used: ethanol 96% lot no. ETH-5521, 72.9 kg; carbomer lot no. CAR-0098, 0.5 kg; glycerin lot no. GLY-3310, 1.0 kg.
+In-process results: ethanol content 70.4% v/v, pH 6.8, viscosity within limits.
+Actual yield: 982 bottles, 98.2% of theoretical yield.
+Each step performed by: S. Khan (operator). Checked by: P. Nair (supervisor).
